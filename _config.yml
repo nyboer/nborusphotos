@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: NBORUSPHOTO
 email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+description: "NBORUS Photos"
+url: "https://nyboer.github.io"
+baseurl: "/nborusphotos"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -11,14 +11,14 @@ github_username:  ""
 deviantart_username: ""
 flickr_username: ""
 discus_shortname: ""
-share: true
+share: false
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   nyboer
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: nborus photography
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -27,15 +27,15 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : false
   disqus :
     short_name : ""
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://nyboer.github.io/nborusphotos/gallery/"  
+  - JOURNAL: "https://nyboer.github.io/nborusphotos/journal/"
+  - ABOUT: "https://nyboer.github.io/nborusphotos/about/"
 
 # All translation keys
 translations:
