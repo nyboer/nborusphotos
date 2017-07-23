@@ -30,7 +30,7 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://nyboer.github.io/nborusphotos/gallery/"  
-  - JOURNAL: "https://nyboer.github.io/nborusphotos/journal/"
+#  - JOURNAL: "https://nyboer.github.io/nborusphotos/journal/"
   - ABOUT: "https://nyboer.github.io/nborusphotos/about/"
 
 # All translation keys
