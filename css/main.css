@@ -163,6 +163,7 @@ hr.small {
 	text-transform: uppercase;
   margin-top: 0;
   font-size: 50px;
+  text-shadow: none;
 /*   text-shadow: 1px 1px 4px #000; */
 }
 .intro-header .site-heading .subheading,
