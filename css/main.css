@@ -53,7 +53,7 @@ hr.small {
   top: 0;
   left: 0;
   width: 100%;
-  font-family'Dosis','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Dosis','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .navbar-custom .navbar-brand {
   font-weight: 800;
@@ -160,25 +160,26 @@ hr.small {
 }
 .intro-header .site-heading h1,
 .intro-header .page-heading h1 {
+	text-transform: uppercase;
   margin-top: 0;
   font-size: 50px;
-  text-shadow: 1px 1px 4px #000;
+/*   text-shadow: 1px 1px 4px #000; */
 }
 .intro-header .site-heading .subheading,
 .intro-header .page-heading .subheading {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family'Dosis','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Dosis','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
-  text-shadow: 1px 1px 4px #000;
+/*   text-shadow: 1px 1px 4px #000; */
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
     font-size: 80px;
-    text-shadow: 1px 1px 4px #000;
+/*     text-shadow: 1px 1px 4px #000; */
   }
 }
 .intro-header .post-heading h1 {
@@ -190,16 +191,16 @@ hr.small {
   display: block;
 }
 .intro-header .post-heading .subheading {
-  font-family'Dosis','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Dosis','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 24px;
   margin: 10px 0 30px;
   font-weight: 600;
-  text-shadow: 1px 1px 4px #000;
+/*   text-shadow: 1px 1px 4px #000; */
 }
 .intro-header .post-heading .meta {
-  font-family'Dosis','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Dosis','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-style: italic;
-  text-shadow: 1px 1px 4px #000;
+/*   text-shadow: 1px 1px 4px #000; */
   font-size: 20px;
 }
 .intro-header .post-heading .meta a {
@@ -211,7 +212,7 @@ hr.small {
   }
   .intro-header .post-heading .subheading {
     font-size: 30px;
-    text-shadow: 1px 1px 4px #000;
+/*     text-shadow: 1px 1px 4px #000; */
   }
 }
 .post-preview > a {
@@ -330,7 +331,7 @@ form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
 }
 .btn {
-  font-family'Dosis','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Dosis','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -353,7 +354,7 @@ form .row:first-child .floating-label-form-group {
 }
 .pager li > a,
 .pager li > span {
-  font-family'Dosis','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Dosis','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
