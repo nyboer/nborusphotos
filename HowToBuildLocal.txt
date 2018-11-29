@@ -1,0 +1,3 @@
+bundle exec jekyll serve
+or
+~/.rbenv/shims/bundle exec jekyll serve
